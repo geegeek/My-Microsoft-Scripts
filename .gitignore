@@ -1,0 +1,22 @@
+# Files and folders to ignore in PowerShell projects
+
+# User-specific files
+*.ps1~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Backup files
+*.old
+
+# System files
+Thumbs.db
+.DS_Store
+
+# VSCode and editor settings
+.vscode/
+*.code-workspace
